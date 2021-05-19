@@ -1,10 +1,10 @@
 countries;countries_with_variant;border_countries
-Andorra;Brazil;Italy
+Andorra;Brazil;Italy:
 Argentina;Canada;Regione Basilicata
 Bahrain;India;Regione Campania
 Belgium;Nepal;Regione Puglia
 Cabo Verde;South Africa;
-Chile;;France
+Chile;;France:
 Colombia;;Region Bretagne
 Costa Rica;;Region Centre-Val de Loire
 Croatia;;Region Hauts-de-France
@@ -15,11 +15,11 @@ Georgia;;Region Occitanie
 Hungary;;Region Pays de la Loire
 Iran;;Region Provence-Alpes-Cote Azur
 Kuwait;; 
-Latvia;;Austria
+Latvia;;Austria:
 Lithuania;;Land Oberosterreich
 Luxembourg;;Land Salzburg
 Maldives;; 
-Mexico;;Germany
+Mexico;;Germany:
 Mongolia;;Land Sachsen
 Netherlands;;Land Thuringen
 Palestinia;; 
